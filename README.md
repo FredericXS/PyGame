@@ -1,7 +1,7 @@
 # PyGame
 Simple 2d python game
 
-![](https://github.com/FredericXS/PyGame/blob/main/Demo/Demo.gif)
+![Demo](https://github.com/FredericXS/PyGame/blob/main/Demo/Demo.gif)
 
 ## What is this?
 This game is a little project that creates a basic player movimentation and spritesheet animations without any game engine
